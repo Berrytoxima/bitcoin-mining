@@ -1,4 +1,4 @@
-inbox admin for software [Admin]{t.me/toxima}
+inbox admin for software [Admin](t.me/toxima)
 To use P2Pool, you must be running your own local bitcoind. For standard configurations, using P2Pool should be as simple as:
 Generic:
 
