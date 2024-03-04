@@ -15,4 +15,4 @@ Then run your miner program, connecting to 127.0.0.1 on port 9332 with any usern
 If you are behind a NAT, you should enable TCP port forwarding on your router. Forward port 9333 to the host running P2Pool.
 
 Run for additional options.
-inbox admin for software [Admin]{t.me/toxima}
+inbox admin for software [Admin](t.me/toxima)
